@@ -6,7 +6,7 @@ to users based on users query.
 All libraries needed for the project are contained in this file 
 ## Model 
 gemini-1.5-flash 
-Summary 
+##Summary 
 Streamlit library to configure the front-end to respond to end users query
 Text converted into vector and stored in the vector database (Chroma). Vector retrieval library used to retrieved data 
 from the vector database based on similarity to users query and then the model respond accurately. Prompt for the model is 
