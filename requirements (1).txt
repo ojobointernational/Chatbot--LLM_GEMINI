@@ -7,6 +7,5 @@ langchain_experimental
 sentence-transformers
 langchain_chroma
 langchainhub
-pypdf
 rapidocr-onnxruntime
 TextLoader
