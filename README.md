@@ -6,6 +6,11 @@ to users based on users query.
 All libraries needed for the project are contained in this file 
 ## Model 
 gemini-1.5-flash 
+##Run Instruction 
+- Download the file to an IDE (VSCode)
+- Add .env file and add Google API key as GOOGLE_API_KEY ='add api key'
+- Save and activate virtual environment
+- Enter Streamlit run app1.py at command at the terminal to run application.
 ## Summary
 Streamlit library to configure the front-end to respond to end users query
 Text converted into vector and stored in the vector database (Chroma). Vector retrieval library used to retrieved data 
