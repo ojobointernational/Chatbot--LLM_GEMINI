@@ -4,8 +4,7 @@ This system uses a csv file that has all the information from which the llm shou
 to users based on users query.
 ## Requirement.txt
 All libraries needed for the project are contained in this file 
-
-##Q&A.csv
+## Q&A.csv
 Add all the content from which you want the llm to generate response from in this file
 ## Model 
 gemini-1.5-flash 
